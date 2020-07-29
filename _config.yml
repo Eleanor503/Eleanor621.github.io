@@ -20,3 +20,5 @@ var config = {
     // 双方的名字
     names: ["小锅锅", "臭猪猪"],
 };
+
+theme: jekyll-theme-merlot
